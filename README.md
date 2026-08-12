@@ -2,9 +2,11 @@
 
 An end-to-end AI-powered Data Science platform that automatically analyzes datasets using Exploratory Data Analysis, statistical testing, machine learning, SHAP explainability, and Generative AI.
 
-## 🌐 Live Demo
+##  Live Demo
 
 (https://genai-data-science-analyst-e8gqxkpqyig3cswa5isrvx.streamlit.app)
+
+📂 [View Source Code](rajitha481/genai-data-science-analyst)
 
 ## 📌 Overview
 
