@@ -158,9 +158,8 @@ The application generates a structured Data Science report containing:
 The report can be downloaded directly from the application.
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
-```text
                     USER
                       │
                       ↓
@@ -194,14 +193,9 @@ The report can be downloaded directly from the application.
                       ↓
               Automated Report
 
----
 
 # 3. Add Technology Stack
 
-Next:
-
-```markdown
----
 
 ## 🛠️ Technology Stack
 
@@ -218,11 +212,11 @@ Next:
 | Version Control | Git, GitHub |
 | Deployment | Streamlit Community Cloud |
 
----
+
 
 ## 📁 Project Structure
 
-```text
+
 genai-data-science-analyst/
 │
 ├── app.py
@@ -241,86 +235,58 @@ genai-data-science-analyst/
     └── llm_analyst.py
 
 
----
-
 # 5. Add Installation
 
 Then:
-
-```markdown
----
 
 ## ⚙️ Installation
 
 ### 1. Clone the repository
 
-```bash
+
 git clone YOUR_GITHUB_REPOSITORY_URL
 cd genai-data-science-analyst
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 
----
-
 # 6. Add API Configuration
 
 This is important because you're using Gemini.
-
-```markdown
----
 
 ## 🔐 API Configuration
 
 Create a `.env` file in the project root:
 
-```env
 GEMINI_API_KEY="AQ.Ab8RN6KE_Nz92H4i1WN_OO5gA47RJBnfy8cd1BOBn_RMXmSX8g"
 
----
-
 # 7. Add Running Instructions
-
-```markdown
----
 
 ## ▶️ Run the Application
 
 Activate your virtual environment and run:
 
-```bash
 streamlit run app.py
-
----
 
 # 8. Add Example Dataset
 
-```markdown
----
 
-## 📊 Example Dataset
+
+##  Example Dataset
 
 The Titanic dataset can be used to demonstrate the complete workflow.
 
 **Target column:**
-
-```text
 Survived
-
-
----
 
 # 9. Add Live Demo
 
-You already have the Live Demo near the top:
-
-```markdown
-## 🌐 Live Demo
+## Live Demo
 
 (https://genai-data-science-analyst-e8gqxkpqyig3cswa5isrvx.streamlit.app/)
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Automated feature engineering
 - Hyperparameter optimization
@@ -332,7 +298,6 @@ You already have the Live Demo near the top:
 - Model monitoring
 - Multi-dataset comparison
 - Cloud database integration
----
 
 ## 👩‍💻 Author
 
