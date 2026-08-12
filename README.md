@@ -274,7 +274,8 @@ This is important because you're using Gemini.
 
 Create a `.env` file in the project root:
 
-GEMINI_API_KEY="AQ.Ab8RN6KE_Nz92H4i1WN_OO5gA47RJBnfy8cd1BOBn_RMXmSX8g"
+GEMINI_API_KEY="your_gemini_api_key"
+Never commit `.env` to GitHub.
 
 # 7. Add Running Instructions
 
