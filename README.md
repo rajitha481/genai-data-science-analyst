@@ -38,7 +38,6 @@ The goal of this project is to build an intelligent analytics assistant that aut
 
 The application follows an end-to-end Data Science workflow:
 
-```text
 Dataset Upload
       ↓
 Data Profiling
@@ -61,8 +60,6 @@ Insights & Recommendations
       ↓
 Automated Report
 
-
-```markdown
 ## 🚀 Key Features
 
 ### 📊 1. Dataset Profiling
@@ -156,7 +153,24 @@ The application generates a structured Data Science report containing:
 - Recommendations
 
 The report can be downloaded directly from the application.
----
+## 📸 Application Screenshots
+
+###  Analytics Dashboard
+
+The dashboard provides a high-level overview of the uploaded dataset, data quality, machine learning results, and explainable AI insights.
+
+![Analytics Dashboard](https://github.com/user-attachments/assets/998db88f-8027-4686-b9b1-dd2a41a347ff)
+
+###  Machine Learning
+![Machine Learning](https://github.com/user-attachments/assets/e2212c34-3970-49d7-880f-f61ce219ca60)
+
+###  Explainable AI
+![Explainable AI](https://github.com/user-attachments/assets/c720056a-3048-4dfd-bd72-9a51febe8077)
+
+
+###  Automated Report
+![Automated Report](https://github.com/user-attachments/assets/80515ce6-377a-45a6-a6e9-130840453559)
+
 
 ##  System Architecture
 
